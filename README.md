@@ -1,10 +1,2 @@
 # gitskills
-<<<<<<< HEAD
-
-
-908765
-67890
-=======
-123
-123321
->>>>>>> dev
+creating a new branch is quick and simple
